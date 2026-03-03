@@ -33,7 +33,7 @@ iKun资源,https://ikunzyapi.com/api.php/provide/vod/
 WidgetMetadata = {
   id: "vod_stream_config",
   title: "VOD Stream Config",
-  // icon: "https://assets.vvebo.vip/scripts/icon.png", // Keeping commented out to avoid image errors if user wants local
+  icon: "https://assets.vvebo.vip/scripts/icon.png",
   version: "1.0.0",
   requiredVersion: "0.0.1",
   description: "Pre-configured VOD sources based on test.json",

@@ -1,7 +1,7 @@
 {
   "title": "VOD源配置模块",
   "description": "提供VOD视频源列表 (基于 test.json)",
-  "icon": "", 
+  "icon": "https://assets.vvebo.vip/scripts/icon.png", 
   "widgets": [
     {
       "id": "vod_stream_config",
@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Forward User",
-      "url": "https://raw.githubusercontent.com/xllxll/fw123/refs/heads/main/vod_module.js"
+      "url": "https://raw.githubusercontent.com/xllxll/fw123/main/vod_module.js"
     }
   ]
 }
