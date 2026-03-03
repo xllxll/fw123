@@ -4,7 +4,7 @@
   "icon": "https://assets.vvebo.vip/scripts/icon.png",
   "widgets": [
     {
-      "id": "vod_stream_config_v001",
+      "id": "vod_v001",
       "title": "VOD Stream Config V001",
       "description": "Pre-configured VOD sources V001 (1-25)",
       "requiredVersion": "0.0.1",

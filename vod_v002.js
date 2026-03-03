@@ -31,8 +31,8 @@ const CHINESE_NUM_MAP = {
   '六': 6, '七': 7, '八': 8, '九': 9, '十': 10
 };
 
-WidgetMetadata = {
-  id: "vod_stream_config_v002",
+const WidgetMetadata = {
+  id: "vod_v002",
   title: "VOD Stream Config V002",
   icon: "https://assets.vvebo.vip/scripts/icon.png",
   version: "1.0.0",
