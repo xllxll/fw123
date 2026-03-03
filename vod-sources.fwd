@@ -1,0 +1,16 @@
+{
+  "title": "VOD源配置模块",
+  "description": "提供多个VOD视频源的配置信息，基于test.json数据",
+  "icon": "https://raw.githubusercontent.com/rapier15sapper/ew/refs/heads/main/test.json",
+  "widgets": [
+    {
+      "id": "forward.vod-sources",
+      "title": "VOD源配置",
+      "description": "获取多个VOD视频源的配置列表",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Forward",
+      "url": "vod-sources.js"
+    }
+  ]
+}
