@@ -1,11 +1,6 @@
 WidgetMetadata = {
   id: "forward.vod-sources",
   title: "VOD源配置",
-  version: "1.0.0",
-  requiredVersion: "0.0.1",
-  description: "提供多个VOD视频源的配置信息",
-  author: "Forward",
-  site: "https://github.com/rapier15sapper/ew",
   modules: [
     {
       id: "getSources",
