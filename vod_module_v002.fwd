@@ -1,0 +1,17 @@
+{
+  "title": "VOD Stream Config V002",
+  "description": "Pre-configured VOD sources V002 (26-50)",
+  "icon": "https://assets.vvebo.vip/scripts/icon.png",
+  "widgets": [
+    {
+      "id": "vod_stream_config_v002",
+      "title": "VOD Stream Config V002",
+      "description": "Pre-configured VOD sources V002 (26-50)",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Forward User",
+      "url": "https://raw.githubusercontent.com/xllxll/fw123/main/vod_module_v002.js",
+      "backup_url": "https://raw.githubusercontent.com/xllxll/fw123/refs/heads/main/vod_module_v002.js"
+    }
+  ]
+}
