@@ -1,11 +1,11 @@
 {
-  "title": "VOD Stream Config V001",
+  "title": "VOD-V001",
   "description": "Pre-configured VOD sources V001 (1-25)",
   "icon": "https://assets.vvebo.vip/scripts/icon.png",
   "widgets": [
     {
       "id": "vod_v001",
-      "title": "VOD Stream Config V001",
+      "title": "VOD-V001",
       "description": "Pre-configured VOD sources V001 (1-25)",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",

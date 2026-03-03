@@ -60,7 +60,7 @@ const CHINESE_NUM_MAP = {
 
 const WidgetMetadata = {
   id: "vod",
-  title: "VOD Stream Config",
+  title: "VOD",
   icon: "https://assets.vvebo.vip/scripts/icon.png",
   version: "1.0.0",
   requiredVersion: "0.0.1",

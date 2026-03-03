@@ -33,7 +33,7 @@ const CHINESE_NUM_MAP = {
 
 const WidgetMetadata = {
   id: "vod_v002",
-  title: "VOD Stream Config V002",
+  title: "VOD-V002",
   icon: "https://assets.vvebo.vip/scripts/icon.png",
   version: "1.0.0",
   requiredVersion: "0.0.1",

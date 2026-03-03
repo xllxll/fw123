@@ -1,11 +1,11 @@
 {
-  "title": "VOD Stream Config",
+  "title": "VOD",
   "description": "Pre-configured VOD sources based on test.json",
   "icon": "https://assets.vvebo.vip/scripts/icon.png", 
   "widgets": [
     {
       "id": "vod",
-      "title": "VOD Stream Config",
+      "title": "VOD",
       "description": "Pre-configured VOD sources based on test.json",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
