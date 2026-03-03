@@ -1,0 +1,16 @@
+{
+  "title": "VOD源配置模块",
+  "description": "提供VOD视频源列表 (基于 test.json)",
+  "icon": "", 
+  "widgets": [
+    {
+      "id": "forward.vod.config",
+      "title": "VOD源列表",
+      "description": "显示VOD视频源列表",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Forward User",
+      "url": "https://raw.githubusercontent.com/xllxll/fw123/refs/heads/main/vod_module.js"
+    }
+  ]
+}
