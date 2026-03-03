@@ -6,11 +6,11 @@
     {
       "id": "forward.vod-sources",
       "title": "VOD源配置",
-      "description": "获取多个VOD视频源的配置列表",
+      "description": "提供多个VOD视频源的配置信息",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Forward",
-      "url": "vod-sources.js"
+      "url": "https://raw.githubusercontent.com/xllxll/fw123/refs/heads/main/vod-sources.js"
     }
   ]
 }
