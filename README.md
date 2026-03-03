@@ -68,9 +68,11 @@ Forward/
 5. Forward 会自动识别并加载模块
 
 #### 方法二：外部链接导入
-1. 将 `vod-sources.js` 上传到可公开访问的服务器
-2. 修改 `vod-sources.fwd` 中的 `url` 字段为完整 URL
-3. 在 Forward「设置-模块」中输入 `.fwd` 文件的 URL
+1. 直接复制以下链接：
+   ```
+   https://raw.githubusercontent.com/xllxll/fw123/refs/heads/main/vod-sources.fwd
+   ```
+2. 在 Forward「设置-模块」中输入该链接即可导入
 
 ### 模块配置
 导入成功后：
