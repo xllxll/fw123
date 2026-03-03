@@ -58,7 +58,7 @@ const CHINESE_NUM_MAP = {
   '六': 6, '七': 7, '八': 8, '九': 9, '十': 10
 };
 
-const WidgetMetadata = {
+WidgetMetadata = {
   id: "vod",
   title: "VOD",
   icon: "https://assets.vvebo.vip/scripts/icon.png",
@@ -259,5 +259,3 @@ async function loadResource(params) {
 
   return allResources;
 }
-
-WidgetMetadata;
