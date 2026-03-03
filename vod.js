@@ -259,3 +259,5 @@ async function loadResource(params) {
 
   return allResources;
 }
+
+WidgetMetadata;
