@@ -6,7 +6,7 @@ WidgetMetadata = {
   title: "VOD源配置",
   modules: [
     {
-      title: "VOD源列表",
+      title: "VOD源配置",
       requiresWebView: false,
       functionName: "getSources",
       params: [

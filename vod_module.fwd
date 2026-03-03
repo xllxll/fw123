@@ -5,7 +5,7 @@
   "widgets": [
     {
       "id": "forward.vod.config",
-      "title": "VOD源列表",
+      "title": "VOD源配置",
       "description": "显示VOD视频源列表",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
