@@ -4,9 +4,9 @@
   "icon": "", 
   "widgets": [
     {
-      "id": "forward.vod.config",
-      "title": "VOD源配置",
-      "description": "显示VOD视频源列表",
+      "id": "vod_stream_config",
+      "title": "VOD Stream Config",
+      "description": "Pre-configured VOD sources based on test.json",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Forward User",
